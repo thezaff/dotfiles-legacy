@@ -1,0 +1,4 @@
+theme = carbonfox
+font-family = "JetbrainsMono Nerd Font Mono"
+# background = #000000
+command = /opt/homebrew/bin/nu --login --interactive
